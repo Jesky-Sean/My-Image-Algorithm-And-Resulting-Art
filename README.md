@@ -14,3 +14,7 @@ I’m soon selling at doctors offices and galleries and private buyers!!! ive wo
 *(nasas website doesnt include these tags within the images when you download them so when you download thousands, you have no clue whats from where at the end. i mean how about initials within the filename huh? boom solved and let people know whats what and its all easily credited, but im assuming that since its from NASAs website, its credited to nasa?) idk but when i asked them if i could sell my work they didnt say no, and for that im so greatful and prase you all to everyone i know. you all have no clue how greatful i am that you all have allowed this (i know it counts as allowed based off the rules but, the fact they didnt say no, still means a lot.)*
 
 the images I create from the originals places the original filename at the top when the image I create, so anyone can go see the original from nasas website if requested or required or wished by a buyer or potental buyer. 
+
+
+*My personal Logo*
+![image](https://github.com/user-attachments/assets/e437bb8e-8edb-44a1-a817-eb11469838c2)
