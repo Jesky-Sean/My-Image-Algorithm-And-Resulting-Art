@@ -1,6 +1,7 @@
 # My-Image-Algorithm-And-Resulting-Art
+by: ![image](https://github.com/user-attachments/assets/70482729-f9b0-4aa0-8720-bec8e1932282)
 
-![image](https://github.com/user-attachments/assets/510e36c5-12d5-4cd7-8e15-519a973441e9)
+![image](https://github.com/user-attachments/assets/2f2adee8-5f23-4c84-bb34-bb1f557c66b9)
 *The results of my algorithm and the art that it produces*
 
 not for sale online.
@@ -28,6 +29,9 @@ I’m soon selling at doctors offices and galleries and private buyers!!! ive wo
 the images I create from the originals places the original filename at the top when the image I create, so anyone can go see the original from nasas website if requested or required or wished by a buyer or potental buyer. 
 
 
-![image](https://github.com/user-attachments/assets/5c8d3abf-ec3d-46fb-9f7e-0de32a8bfd5c)
+![image](https://github.com/user-attachments/assets/97c821ca-a1aa-4d1d-9563-70b8a50d792b)
 *My personal Logo design*
+or
+![image](https://github.com/user-attachments/assets/e2e2db78-c32f-4122-a6d1-a8c97654bcd3)
+
 
