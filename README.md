@@ -3,6 +3,18 @@
 ![image](https://github.com/user-attachments/assets/510e36c5-12d5-4cd7-8e15-519a973441e9)
 *The results of my algorithm and the art that it produces*
 
+not for sale online.
+-
+
+my current estimates
+
+*(pros. est. way more than i was going to sell, for ex. they said the large one should sell for <2k, but eh.. if i was losing 50% on comission, then i would for the pro. est. but if i can get it in the hands of people who want nice but cant afford 2k but 750, than that would make me feel better:*
+
+large one: *$750.00*
+small:     *$350.00*
+smaller:   *150.00* 
+
+
 I’m soon selling at doctors offices and galleries and private buyers!!! ive worked so hard for this an im so close to all my dreams, minus the greatest one, and ill never see her again prob. 😔
 
 !also, on demand images are also an option to sell one day, but for a higher, much much higher price than the art I produce on my own.!
