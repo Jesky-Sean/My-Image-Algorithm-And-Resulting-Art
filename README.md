@@ -28,5 +28,6 @@ I’m soon selling at doctors offices and galleries and private buyers!!! ive wo
 the images I create from the originals places the original filename at the top when the image I create, so anyone can go see the original from nasas website if requested or required or wished by a buyer or potental buyer. 
 
 
-*My personal Logo*
-![image](https://github.com/user-attachments/assets/e437bb8e-8edb-44a1-a817-eb11469838c2)
+![image](https://github.com/user-attachments/assets/5c8d3abf-ec3d-46fb-9f7e-0de32a8bfd5c)
+*My personal Logo design*
+
