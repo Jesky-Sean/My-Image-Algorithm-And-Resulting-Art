@@ -7,7 +7,9 @@ ______________
 *my personal Algorithms novel mathemamatical method using matrices and the resulting Art created, by: sean Jesky for the american dream.!*[image](https://github.com/user-attachments/assets/70482729-f9b0-4aa0-8720-bec8e1932282)
 
 ![image](https://github.com/user-attachments/assets/2f2adee8-5f23-4c84-bb34-bb1f557c66b9)
-* a select The results of my a new, novel mathemamatical method for utilizing matrices and understanding other ways to use matrices, converted to the algorithm I used, and created for a theory i have that: [not told publicly yet]
+*a select few printings; here im showing those results of a new, novel mathemamatical method for calculating matrices by me and shows a new understanding of other ways to use matrices, and performing calculations based off the theories ive designed*
+(I plan to release the algorithm, and associated math theories ive devised to create it (though id prob. be wrong as i have no
+formal math training for explaing, i only taught myself how to do), or sell it one day, but for now im keeping it for my enjoyment of its use and to learn more of the theory i created), *for which, converted to the algorithm ive used, and created for this theory i have had: [not told publicly yet], these images show algs from alg-0 to alg-3 that were used*
 
 
 # My current estimates
