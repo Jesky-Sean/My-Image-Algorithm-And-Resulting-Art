@@ -1,5 +1,5 @@
-*not for sale online.*
--
+*results of my equation are not for sale online... maybe one day , but not now.*
+
 ______________
 
 # My-Image-Algorithm-And-Resulting-Art
@@ -29,7 +29,6 @@ The images I create from the originals places the original filename at the top w
 •No AI helped with the creation of the algorithm, or the art, additionally, no computer graphics programs from a 3rd party, or any other programs other than my algorithm, no nothing but my own sets of equations were used to produce these images, its something im very proud of being self taught in almost everything i know. 5 years of study 3am to 8ish pm - every single day - all to one day have the american dream. although i have used a 3rd party printer because i dont have a printer to produce ultra-high-quality archive grade images.•
 
 
-
 # Credits
 *original images i used to produce my images belong to: NASA or JPL or USGS or others, but the resulting image is at a bit by bit level, original for each image, but without them none of this would be as fun nor would i have had such an exellent and great selection of images from such incredible satalites they operate and share with the intent of new discoverys and dreams*
 
@@ -38,6 +37,7 @@ The images I create from the originals places the original filename at the top w
 ![image](https://github.com/user-attachments/assets/97c821ca-a1aa-4d1d-9563-70b8a50d792b)
 *My personal Logo design*
 or
+v.2 idk which to use yet. 
 ![image](https://github.com/user-attachments/assets/e2e2db78-c32f-4122-a6d1-a8c97654bcd3)
 
 
