@@ -8,7 +8,7 @@ i really think there is another we can create with math equations, but it works 
 idk im trying to figure out how to tell people how this works, how i thought of it, and why i knew it would work. i dont stand on the shoulders of Giants, i am amoung the giants. what ive learned is that anyone can be a giant, you just need to know things that no none else can know or figure out before everyone else. thats honestly, really about it. 
 
 for example: {+[...]/[...]*[...]-}
- but they are all used at the sametime at the same moment.... 
+ but they are all used at the sametime at the same moment.... something that can only be done on a matrix. 
 
 
  
