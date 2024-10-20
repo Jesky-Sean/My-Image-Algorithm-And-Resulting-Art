@@ -10,11 +10,16 @@ idk im trying to figure out how to tell people how this works, how i thought of 
 for example: {+[...]/[...]*[...]-}
  but they are all used at the sametime at the same moment.... something that can only be done on a matrix. 
 
+ my theoy exploits n-1 @ B. oq
+
 
  
 ______________
 
+jesky's equation, results:
+
 # My-Image-Algorithm-And-Resulting-Art
+
 ![image](https://github.com/user-attachments/assets/e2e2db78-c32f-4122-a6d1-a8c97654bcd3)
 *my personal Algorithms novel mathemamatical method using matrices and the resulting Art created, by: sean Jesky for the american dream.!*[image](https://github.com/user-attachments/assets/70482729-f9b0-4aa0-8720-bec8e1932282)
 
