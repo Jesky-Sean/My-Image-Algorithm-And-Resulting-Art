@@ -1,20 +1,5 @@
-*results of my equation are not for sale online... maybe one day , but not now.*
-
-
-sounds crazy, but i think +, -, *, and / are not the only ones after this discovery if mine with matrix' math. 
-
-i really think there is another we can create with math equations, but it works as division within multiply or add within subtracting within eachother, or excluded depending on the natural enviroment of the calculation. where the actual state of the object is considered and where its state is at or located to others... but here is the odd part, similarity of state also matter.  
-
-idk im trying to figure out how to tell people how this works, how i thought of it, and why i knew it would work. i dont stand on the shoulders of Giants, i am amoung the giants. what ive learned is that anyone can be a giant, you just need to know things that no none else can know or figure out before everyone else. thats honestly, really about it. 
-
-for example: {+[...]/[...]*[...]-}
- but they are all used at the sametime at the same moment.... something that can only be done on a matrix. 
-
- my theoy exploits n-1 @ B. oq
-
-
- 
-______________
+*results of my equation are not for sale online... maybe one day , but not now*
+___________
 
 jesky's equation, results:
 
@@ -57,4 +42,23 @@ or
 v.2 idk which to use yet. 
 ![image](https://github.com/user-attachments/assets/e2e2db78-c32f-4122-a6d1-a8c97654bcd3)
 
+
+-----
+nonsense. till correct as always.  
+
+
+sounds crazy, but i think +, -, *, and / are not the only ones after this discovery if mine with matrix' math. 
+
+i really think there is another we can create with math equations, but it works as division within multiply or add within subtracting within eachother, or excluded depending on the natural enviroment of the calculation. where the actual state of the object is considered and where its state is at or located to others... but here is the odd part, similarity of state also matter.  
+
+idk im trying to figure out how to tell people how this works, how i thought of it, and why i knew it would work. i dont stand on the shoulders of Giants, i am amoung the giants. what ive learned is that anyone can be a giant, you just need to know things that no none else can know or figure out before everyone else. thats honestly, really about it. 
+
+for example: {+[...]/[...]*[...]-}
+ but they are all used at the sametime at the same moment.... but at the same moment your not using them like that... something that can only be done on a matrix. 
+
+ my theoy exploits n-1 @ B. oq
+
+ while n-1 is the lead of the tail and oq is before B.... ya. thats it.😔
+
+ ill figure out a way to explain it! none of whats above of this to the logo is nonsense, im just trying to work out wtf ever my mind is trying to tell me about the equations. 
 
