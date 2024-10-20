@@ -1,5 +1,17 @@
 *results of my equation are not for sale online... maybe one day , but not now.*
 
+
+sounds crazy, but i think +, -, *, and / are not the only ones after this discovery if mine with matrix' math. 
+
+i really think there is another we can create with math equations, but it works as division within multiply or add within subtracting within eachother, or excluded depending on the natural enviroment of the calculation. where the actual state of the object is considered and where its state is at or located to others... but here is the odd part, similarity of state also matter.  
+
+idk im trying to figure out how to tell people how this works, how i thought of it, and why i knew it would work. i dont stand on the shoulders of Giants, i am amoung the giants. what ive learned is that anyone can be a giant, you just need to know things that no none else can know or figure out before everyone else. thats honestly, really about it. 
+
+for example: {+[...]/[...]*[...]-}
+ but they are all used at the sametime at the same moment.... 
+
+
+ 
 ______________
 
 # My-Image-Algorithm-And-Resulting-Art
